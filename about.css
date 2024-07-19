@@ -1,0 +1,8 @@
+body {
+    background-color: whitesmoke; /* Background color */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-position: center center; /* Center the image */
+    background-size: cover; /* Cover the entire container */
+    background-attachment: fixed; /* Fixed background */
+  }
+  
