@@ -8,7 +8,7 @@
 .hero{
     height: 100%;
     width: 100%;
-    background-image:url('../3547560_54f6_3.jpg');
+    background-image:url('../styles/pexels-felixmittermeier-1146134.jpg');
     background-size: cover;
     background-position: center;
     background-color:rgb(24, 127, 218);   
@@ -30,6 +30,7 @@ nav ul{
 
 nav ul li{
     padding: 10px 20px;
+    list-style: none;
 }
 
 
@@ -43,15 +44,11 @@ nav ul li{
 nav ul li a
 {
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-decoration: none;
 }
 
-nav ul li a:hover
-{
-    color: black;
-    transition: 1s;
-}
+
 
 .btn
 {
@@ -100,7 +97,7 @@ h4{
     display: inline-block;
     width: 100%;
     padding: 15px 120px 13px 14px;
-    border-color: blue;
+    border-color: darkorchid;
     border-radius: 40px;
     border-style: solid;
 }
@@ -110,7 +107,7 @@ h4{
     display: inline-block;
     padding: 10px 30px;
     border: none;
-    background-color: blue;
+    background-color: darkmagenta;
     color: white;
     top: 6px;
     right: 7px;
